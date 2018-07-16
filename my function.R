@@ -6,3 +6,6 @@ newstr <- foo + bar
 newtab <- 45
 
 baz <- 20
+
+rd <-23
+ baz <-34
