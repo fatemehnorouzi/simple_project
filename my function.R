@@ -1,5 +1,8 @@
 # this is a new file
 foo <- 'that'
-bar <- 'this'
 
 newstr <- foo + bar
+
+newtab <- 45
+
+baz <- 20
